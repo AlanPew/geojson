@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<title>Virginia Plantations</title>
+<head>
+  <script src='http://api.tiles.mapbox.com/mapbox.js/v0.6.7/mapbox.js'></script>
+  <link href='http://api.tiles.mapbox.com/mapbox.js/v0.6.7/mapbox.css' rel='stylesheet' />
+  <style>
+    body { margin:0; padding:0; }
+    #map { position:absolute; top:0; bottom:0; width:100%; }
+  </style>
+</head>
+<body>
+<div id='map'></div>
+<script>
+var map = mapbox.map('map');
+map.addLayer(mapbox.layer().id('examples.map-zr0njcqy'));
+
+map.ui.zoomer.add();
+
+// example.geojson is a well-formed GeoJSON document. For this
+// example, the file must be on the same domain name as the map,
+// or loading will not work due to cross-domain request restrictions
+//var markers = mapbox.markers.layer().url('example.geojson');
+var markers = mapbox.markers.layer().url('va_plantations.json');
+
+var interaction = mapbox.markers.interaction(markers);
+map.addLayer(markers);
+
+// Zoom and center the map
+map.zoom(9);
+map.center({ lat: 37.5, lon: -77.5 });
+   interaction.formatter(function(feature) {
+        var o = '<a target="_blank" href="' + feature.properties.url + '">' +
+            '<img src="' + feature.properties.image + '">' +
+            '<h2>' + feature.properties.city + '</h2>' +
+            '</a>';
+
+        return o;
+    });
+// Attribute map
+map.ui.attribution.add()
+    .content('<a href="http://mapbox.com/about/maps">Terms &amp; Feedback</a>');
+</script>
+</body>
+</html>
