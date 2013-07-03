@@ -20,8 +20,8 @@ map.ui.zoomer.add();
 // example.geojson is a well-formed GeoJSON document. For this
 // example, the file must be on the same domain name as the map,
 // or loading will not work due to cross-domain request restrictions
-//var markers = mapbox.markers.layer().url('example.geojson');
-var markers = mapbox.markers.layer().url('va_plantations.geojson');
+var markers = mapbox.markers.layer().url('example.geojson');
+//var markers = mapbox.markers.layer().url('http://raw.github.com/AlanPew/geojson/master/va_plantations.json');
 
 var interaction = mapbox.markers.interaction(markers);
 map.addLayer(markers);
