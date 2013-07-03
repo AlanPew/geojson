@@ -1,4 +1,4 @@
-VirginiaPlantations.json
+geosjon
 ========================
 
-geojson file of Virginia Plantations
+various geoJSON files
