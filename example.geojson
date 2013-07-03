@@ -1,0 +1,247 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+             "properties": {
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Berkeley_plantation_harrison_home.jpg/304px-Berkeley_plantation_harrison_home.jpg",
+            "url": "http://en.wikipedia.org/wiki/Berkeley_Plantation",
+            "city": "Berekely Plantation",
+  	"marker-size": "large",
+		"marker-color": "#000",
+		"marker-symbol": "star-stroked"
+       	 },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.180157, 37.318486]
+            }
+        },{
+            "type": "Feature",
+             "properties": {
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Shirley_Plantation_2006.jpg/320px-Shirley_Plantation_2006.jpg",
+            "url": "http://en.wikipedia.org/wiki/Shirley_Plantation",
+            "city": "Shirley Plantation",
+		"marker-size": "small",
+		"marker-color": "#000",
+		"marker-symbol": "triangle-stroked"
+       	},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.256052, 37.347439]
+            }
+	},
+	{
+            "type": "Feature",
+             "properties": {
+            "image": "http://upload.wikimedia.org/wikipedia/commons/0/04/Sherwood_Forest-1961.jpg",
+            "url": "http://en.wikipedia.org/wiki/Sherwood_Forest_Plantation",
+            "city": "Sherwood Forest Plantation",
+		"marker-size": "medium",
+		"marker-color": "#000",
+		"marker-symbol": "star-stroked"
+       	 },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.01997, 37.333966]
+            }
+        },
+	{
+            "type": "Feature",
+             "properties": {
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Stratfordpotomacfront2011.JPG/320px-Stratfordpotomacfront2011.JPG",
+            "url": "http://en.wikipedia.org/wiki/Stratford_Hall_(plantation)",
+            "city": "Stratford Hall",
+		"marker-size": "medium",
+		"marker-color": "#000",
+		"marker-symbol": "star-stroked"
+       	 },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-76.839457, 38.151945]
+            }
+        },
+	{
+            "type": "Feature",
+             "properties": {
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Geo_Washington_birthplace.jpg/320px-Geo_Washington_birthplace.jpg",
+            "url": "http://en.wikipedia.org/wiki/George_Washington_Birthplace_National_Monument",
+            "city": "George Washington Birthplace",
+		"marker-size": "medium",
+		"marker-color": "#000",
+		"marker-symbol": "star-stroked"
+       	 },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-76.916168, 38.185898]
+            }
+        },
+	{
+            "type": "Feature",
+             "properties": {
+            "image": "http://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Bacons_Castle_2006.jpg/320px-Bacons_Castle_2006.jpg",
+            "url": "http://en.wikipedia.org/wiki/Bacon%27s_Castle",
+            "city": "Bacon's Castle",
+		"marker-size": "medium",
+		"marker-color": "#000",
+		"marker-symbol": "star-stroked"
+       	 },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-76.728056, 37.110556]
+            }
+        },
+	{
+            "type": "Feature",
+             "properties": {
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/WestoverPlantationSEGL.jpg/320px-WestoverPlantationSEGL.jpg",
+            "url": "http://en.wikipedia.org/wiki/Westover_Plantation",
+            "city": "Westover Plantation",
+		"marker-size": "medium",
+		"marker-color": "#000",
+		"marker-symbol": "star-stroked"
+       	 },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.1495, 37.311116]
+            }
+        },{
+            "type": "Feature",
+             "properties": {
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Law_office_Red_Hill_Plantation_Patrick_Henry.jpg/320px-Law_office_Red_Hill_Plantation_Patrick_Henry.jpg",
+            "url": "http://en.wikipedia.org/wiki/Red_Hill_Patrick_Henry_National_Memorial",
+            "city": "Red Hill",
+		"marker-size": "medium",
+		"marker-color": "#000",
+		"marker-symbol": "star-stroked"
+       	 },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-78.89806,37.03222]	 
+            }
+        },{
+            "type": "Feature",
+             "properties": {
+            "image": "http://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Fmt_main_house.jpg/320px-Fmt_main_house.jpg",
+            "url": "http://en.wikipedia.org/wiki/Four_Mile_Tree",
+            "city": "Four Mile Tree (Private)",
+		"marker-size": "medium",
+		"marker-color": "#000",
+		"marker-symbol": "star-stroked"
+       	 },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-76.852778,37.204722]	 
+            }
+        },{
+            "type": "Feature",
+             "properties": {
+            "image": "http://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Smith%27s_Fort_Plantation.jpg/320px-Smith%27s_Fort_Plantation.jpg",
+            "url": "http://en.wikipedia.org/wiki/Smith%27s_Fort_Plantation",
+            "city": "Smith's Fort",
+		"marker-size": "medium",
+		"marker-color": "#000",
+		"marker-symbol": "star-stroked"
+       	 },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-76.82, 37.163889]	 
+            }
+        },{
+            "type": "Feature",
+             "properties": {
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/CartersGrove.jpg/320px-CartersGrove.jpg",
+            "url": "http://en.wikipedia.org/wiki/Carter%27s_Grove",
+            "city": "Carter's Grove",
+		"marker-size": "medium",
+		"marker-color": "#000",
+		"marker-symbol": "star-stroked"
+       	 },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-76.624819, 37.206981]	 
+            }
+        },{
+            "type": "Feature",
+             "properties": {
+            "image": "http://www.northbendplantation.com/images/gallerymainhouse.jpg",
+            "url": "http://en.wikipedia.org/wiki/North_Bend_Plantation",
+            "city": "North Bend Plantation",
+		"marker-size": "medium",
+		"marker-color": "#000",
+		"marker-symbol": "star-stroked"
+       	 },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.055531, 37.312188]	 
+            }
+        },{
+            "type": "Feature",
+             "properties": {
+            "image": "http://www.dcr.virginia.gov/state_parks/images/chi.jpg",
+            "url": "http://www.dcr.virginia.gov/state_parks/chi.shtml",
+            "city": "Chippokes Plantation State Park",
+		"marker-size": "medium",
+		"marker-color": "#000",
+		"marker-symbol": "star-stroked"
+       	 },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-76.7275, 37.136667]	 
+            }
+        },{
+            "type": "Feature",
+             "properties": {
+            "image": "http://www.edgewoodplantation.com/images/2009-house.jpg",
+            "url": "http://en.wikipedia.org/wiki/Edgewood_Plantation_and_Harrison's_Mill",
+            "city": "Edgewood Plantation",
+		"marker-size": "medium",
+		"marker-color": "#000",
+		"marker-symbol": "star-stroked"
+       	 },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.186667, 37.330278]	 
+            }
+        },{
+            "type": "Feature",
+             "properties": {
+            "image": "http://www.dhr.virginia.gov/registers/Counties/CharlesCity/018-0029_Weyanoke_VLR_4th_low.jpg",
+            "url": "http://www.dhr.virginia.gov/registers/Counties/CharlesCity/018-0029_Weyanoke_Plantation_1980_Final_Nomination.pdf",
+            "city": "Weynoke Plantation",
+		"marker-size": "medium",
+		"marker-color": "#000",
+		"marker-symbol": "star-stroked"
+       	 },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.06509, 37.290635]	 
+            }
+        },{
+            "type": "Feature",
+             "properties": {
+            "image": "http://www.dhr.virginia.gov/registers/Counties/CharlesCity/018-0029_Weyanoke_VLR_4th_low.jpg",
+            "url": "http://www.weyanoke.org/weyanoke.html",
+            "city": "First Location of Slavery in USA",
+		"marker-size": "medium",
+		"marker-color": "#000",
+		"marker-symbol": "star-stroked"
+       	 },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.06509, 37.285000]	 
+            }
+        }
+
+
+
+
+
+
+
+
+
+
+	]
+
+
+}
