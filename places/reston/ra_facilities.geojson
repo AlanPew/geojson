@@ -1,0 +1,301 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "export_sqli": 175.000000, "featid1": 0.000000, "name": "Temporary Road Rec Area", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.350823, 38.959774 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "export_sqli": 174.000000, "featid1": 0.000000, "name": "Polo Club", "type": "Volleyball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.386011, 38.947005 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "export_sqli": 173.000000, "featid1": 0.000000, "name": "Triple Crown", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.359330, 38.928770 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "export_sqli": 172.000000, "featid1": 0.000000, "name": "Temporary Rd", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.351180, 38.959840 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "export_sqli": 171.000000, "featid1": 0.000000, "name": "Polo Fields", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.384100, 38.947630 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "export_sqli": 170.000000, "featid1": 0.000000, "name": "Newbridge Rec Area", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.352640, 38.944120 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "export_sqli": 169.000000, "featid1": 0.000000, "name": "Lake Newport Rec Area", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.348720, 38.975390 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "export_sqli": 168.000000, "featid1": 0.000000, "name": "Colts Neck", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.364000, 38.930160 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "export_sqli": 167.000000, "featid1": 0.000000, "name": "Browns Chapel", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.341030, 38.973380 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "export_sqli": 166.000000, "featid1": 0.000000, "name": "Autumnwood Park", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.358920, 38.976260 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "export_sqli": 165.000000, "featid1": 0.000000, "name": "Lake Fairfax", "type": "Soccer", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.319210, 38.958110 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "export_sqli": 164.000000, "featid1": 0.000000, "name": "Fox Mill Soccer", "type": "Soccer", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.372710, 38.927700 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "export_sqli": 163.000000, "featid1": 0.000000, "name": "Baron Cameron", "type": "Soccer", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.336394, 38.975031 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "export_sqli": 162.000000, "featid1": 0.000000, "name": "Uplands Rexc", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.324650, 38.971300 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "export_sqli": 160.000000, "featid1": 0.000000, "name": "Polo Fields Play Meadow", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.385720, 38.944640 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "export_sqli": 159.000000, "featid1": 0.000000, "name": "Colts Brook Play Meadow", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.391000, 38.944851 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "export_sqli": 158.000000, "featid1": 0.000000, "name": "Walnut Branch Picnic Pavilion", "type": "Picnic", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.362910, 38.972210 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "export_sqli": 157.000000, "featid1": 0.000000, "name": "Polo Fields Picnic Pavilion", "type": "Picnic", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.385791, 38.946710 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "export_sqli": 156.000000, "featid1": 0.000000, "name": "Butler Pond Gazebo", "type": "Picnic", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.337700, 38.993259 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "export_sqli": 154.000000, "featid1": 0.000000, "name": "Browns Chapel", "type": "Picnic", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.340327, 38.973175 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "export_sqli": 153.000000, "featid1": 0.000000, "name": "Baron Cameron", "type": "Baseball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.335860, 38.977130 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "export_sqli": 152.000000, "featid1": 0.000000, "name": "Lake Fairfax", "type": "Baseball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.319270, 38.958870 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "export_sqli": 151.000000, "featid1": 0.000000, "name": "", "type": "Baseball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.349651, 38.975563 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "export_sqli": 150.000000, "featid1": 0.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.349528, 38.975835 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "export_sqli": 149.000000, "featid1": 0.000000, "name": "", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.349852, 38.914638 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "export_sqli": 148.000000, "featid1": 0.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.349582, 38.914301 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "export_sqli": 147.000000, "featid1": 0.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.347250, 38.930690 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "export_sqli": 146.000000, "featid1": 0.000000, "name": "", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.318839, 38.941314 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "export_sqli": 145.000000, "featid1": 0.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.324357, 38.971719 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "export_sqli": 144.000000, "featid1": 0.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.348155, 38.965891 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "export_sqli": 143.000000, "featid1": 0.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.371617, 38.945054 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "export_sqli": 142.000000, "featid1": 0.000000, "name": "", "type": "Pool", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.341086, 38.936903 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "export_sqli": 141.000000, "featid1": 0.000000, "name": "", "type": "Volleyball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.348970, 38.976021 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "export_sqli": 140.000000, "featid1": 0.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.346226, 38.919277 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "export_sqli": 139.000000, "featid1": 0.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.348131, 38.928707 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "export_sqli": 138.000000, "featid1": 0.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.336911, 38.969469 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "export_sqli": 137.000000, "featid1": 0.000000, "name": "", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.312886, 38.938193 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "export_sqli": 136.000000, "featid1": 0.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.339455, 38.958052 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "export_sqli": 135.000000, "featid1": 0.000000, "name": "", "type": "Picnic", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.345709, 38.922677 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "export_sqli": 134.000000, "featid1": 0.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.346854, 38.983712 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "export_sqli": 133.000000, "featid1": 0.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.353681, 38.924460 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "export_sqli": 132.000000, "featid1": 0.000000, "name": "", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.362903, 38.972467 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "export_sqli": 131.000000, "featid1": 0.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.348889, 38.958755 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "export_sqli": 130.000000, "featid1": 0.000000, "name": "", "type": "Baseball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.340492, 38.972492 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "export_sqli": 129.000000, "featid1": 0.000000, "name": "", "type": "Baseball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.339760, 38.973783 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "export_sqli": 128.000000, "featid1": 0.000000, "name": "", "type": "Baseball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.350816, 38.965574 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "export_sqli": 127.000000, "featid1": 0.000000, "name": "", "type": "Volleyball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.337447, 38.969666 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "export_sqli": 126.000000, "featid1": 0.000000, "name": "", "type": "Picnic", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.336937, 38.969761 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "export_sqli": 124.000000, "featid1": 0.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.325141, 38.970857 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "export_sqli": 123.000000, "featid1": 0.000000, "name": "", "type": "Baseball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.325734, 38.970442 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "export_sqli": 122.000000, "featid1": 0.000000, "name": "", "type": "Tennis", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.342891, 38.967923 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "export_sqli": 121.000000, "featid1": 0.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.341169, 38.962391 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "export_sqli": 120.000000, "featid1": 0.000000, "name": "Tot Lot", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.342464, 38.981464 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "export_sqli": 119.000000, "featid1": 0.000000, "name": "", "type": "Pool", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.349518, 38.934725 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "export_sqli": 118.000000, "featid1": 0.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.391336, 38.945741 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "export_sqli": 117.000000, "featid1": 0.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.376842, 38.947809 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "export_sqli": 116.000000, "featid1": 0.000000, "name": "", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.377068, 38.947219 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "export_sqli": 115.000000, "featid1": 0.000000, "name": "", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.334518, 38.932279 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "export_sqli": 114.000000, "featid1": 115.000000, "name": "Post Oak Basketball", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.312660, 38.938131 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "export_sqli": 113.000000, "featid1": 114.000000, "name": "Post Oak Tot Lot", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.312869, 38.938407 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "export_sqli": 111.000000, "featid1": 112.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.336342, 38.923607 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "export_sqli": 110.000000, "featid1": 111.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.349505, 38.914234 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "export_sqli": 109.000000, "featid1": 110.000000, "name": "Running Cedar Baseball Field", "type": "Baseball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.344357, 38.918307 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "export_sqli": 104.000000, "featid1": 105.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.329189, 38.925380 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "export_sqli": 95.000000, "featid1": 96.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.390966, 38.945673 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "export_sqli": 94.000000, "featid1": 95.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.386497, 38.944066 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "export_sqli": 93.000000, "featid1": 94.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.386368, 38.944345 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "export_sqli": 91.000000, "featid1": 92.000000, "name": "Twin Branches", "type": "Baseball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.322908, 38.927530 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "export_sqli": 90.000000, "featid1": 91.000000, "name": "Walker Nature Center", "type": "Picnic", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.341676, 38.926354 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "export_sqli": 88.000000, "featid1": 89.000000, "name": "Glade Tennis", "type": "Tennis", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.345670, 38.926894 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "export_sqli": 87.000000, "featid1": 88.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.345292, 38.927068 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "export_sqli": 86.000000, "featid1": 87.000000, "name": "Hunters Woods Pool", "type": "Pool", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.344796, 38.926615 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "export_sqli": 85.000000, "featid1": 86.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.345321, 38.926881 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "export_sqli": 83.000000, "featid1": 84.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.350697, 38.924554 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "export_sqli": 82.000000, "featid1": 83.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.346815, 38.923947 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "export_sqli": 81.000000, "featid1": 82.000000, "name": "Quartermaster", "type": "Soccer", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.337803, 38.926157 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "export_sqli": 80.000000, "featid1": 81.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.336361, 38.923458 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "export_sqli": 79.000000, "featid1": 80.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.323055, 38.928401 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "export_sqli": 78.000000, "featid1": 79.000000, "name": "", "type": "Boat Launch", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.326299, 38.932959 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "export_sqli": 77.000000, "featid1": 78.000000, "name": "Lake Audubon Pool", "type": "Pool", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.326188, 38.933514 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "export_sqli": 76.000000, "featid1": 77.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.322959, 38.936085 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "export_sqli": 75.000000, "featid1": 76.000000, "name": "", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.319036, 38.936786 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "export_sqli": 74.000000, "featid1": 75.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.333921, 38.932497 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "export_sqli": 73.000000, "featid1": 74.000000, "name": "Lake Thoreau Boat Launch", "type": "Boat Launch", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.332674, 38.935334 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "export_sqli": 72.000000, "featid1": 73.000000, "name": "", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.334253, 38.934859 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "export_sqli": 71.000000, "featid1": 72.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.334525, 38.934693 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "export_sqli": 70.000000, "featid1": 71.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.359260, 38.926720 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "export_sqli": 69.000000, "featid1": 70.000000, "name": "Pony Barn Picnic", "type": "Picnic", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.359388, 38.928957 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "export_sqli": 68.000000, "featid1": 69.000000, "name": "", "type": "Tennis", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.364602, 38.930007 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "export_sqli": 67.000000, "featid1": 68.000000, "name": "Hunters Woods Pool", "type": "Pool", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.367840, 38.930957 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "export_sqli": 65.000000, "featid1": 66.000000, "name": "", "type": "Garden Plot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.368377, 38.931881 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "export_sqli": 64.000000, "featid1": 65.000000, "name": "", "type": "Garden Plot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.368047, 38.932182 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "export_sqli": 63.000000, "featid1": 64.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.367440, 38.932928 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "export_sqli": 62.000000, "featid1": 63.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.367502, 38.932676 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "export_sqli": 61.000000, "featid1": 62.000000, "name": "", "type": "Soccer", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.366926, 38.933845 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "export_sqli": 60.000000, "featid1": 61.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.368323, 38.934375 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "export_sqli": 59.000000, "featid1": 60.000000, "name": "", "type": "Baseball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.368542, 38.934923 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "export_sqli": 58.000000, "featid1": 59.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.368593, 38.935240 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "export_sqli": 57.000000, "featid1": 58.000000, "name": "", "type": "Pool", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.368322, 38.936788 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "export_sqli": 56.000000, "featid1": 57.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.374656, 38.932056 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "export_sqli": 55.000000, "featid1": 55.000000, "name": "", "type": "Tennis", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.386115, 38.946821 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "export_sqli": 54.000000, "featid1": 54.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.384680, 38.947754 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "export_sqli": 53.000000, "featid1": 53.000000, "name": "Newbridge Pool", "type": "Pool", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.353169, 38.944255 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "export_sqli": 52.000000, "featid1": 52.000000, "name": "", "type": "Tennis", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.352860, 38.944606 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "export_sqli": 51.000000, "featid1": 51.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.352597, 38.944060 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "export_sqli": 50.000000, "featid1": 50.000000, "name": "", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.345816, 38.938385 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "export_sqli": 49.000000, "featid1": 49.000000, "name": "", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.342123, 38.939463 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "export_sqli": 48.000000, "featid1": 48.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.341574, 38.939119 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "export_sqli": 45.000000, "featid1": 45.000000, "name": "Upper Lakes Tennis", "type": "Tennis", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.350420, 38.934885 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "export_sqli": 44.000000, "featid1": 44.000000, "name": "", "type": "Tennis", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.323914, 38.940368 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "export_sqli": 43.000000, "featid1": 43.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.324968, 38.939929 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "export_sqli": 42.000000, "featid1": 42.000000, "name": "", "type": "Soccer", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.325414, 38.940284 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "export_sqli": 41.000000, "featid1": 41.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.318980, 38.941551 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "export_sqli": 40.000000, "featid1": 40.000000, "name": "Upper Lakes Pool", "type": "Pool", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.332998, 38.941677 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "export_sqli": 39.000000, "featid1": 39.000000, "name": "", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.335306, 38.942196 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "export_sqli": 38.000000, "featid1": 38.000000, "name": "", "type": "Tennis", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.338040, 38.943026 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "export_sqli": 37.000000, "featid1": 37.000000, "name": "", "type": "Pool", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.339022, 38.958470 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "export_sqli": 36.000000, "featid1": 36.000000, "name": "", "type": "Tot Lot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.339337, 38.957760 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "export_sqli": 35.000000, "featid1": 35.000000, "name": "", "type": "Garden Plot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.338410, 38.957738 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "export_sqli": 34.000000, "featid1": 34.000000, "name": "", "type": "Pool", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.332858, 38.957956 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "export_sqli": 33.000000, "featid1": 33.000000, "name": "", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.329789, 38.959261 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "export_sqli": 32.000000, "featid1": 32.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.331004, 38.961975 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "export_sqli": 31.000000, "featid1": 31.000000, "name": "", "type": "Garden Plot", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.332861, 38.963067 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "export_sqli": 30.000000, "featid1": 30.000000, "name": "", "type": "Baseball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.342810, 38.963017 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "export_sqli": 29.000000, "featid1": 29.000000, "name": "", "type": "Tennis", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.340817, 38.962660 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "export_sqli": 28.000000, "featid1": 28.000000, "name": "", "type": "Picnic", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.350860, 38.959630 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "export_sqli": 27.000000, "featid1": 27.000000, "name": "Wainwright", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.350082, 38.965160 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "export_sqli": 26.000000, "featid1": 26.000000, "name": "", "type": "Pool", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.342816, 38.967052 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "export_sqli": 25.000000, "featid1": 25.000000, "name": "", "type": "Tennis", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.343623, 38.971079 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "export_sqli": 24.000000, "featid1": 24.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.336659, 38.969754 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "export_sqli": 23.000000, "featid1": 23.000000, "name": "", "type": "Tennis", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.336691, 38.969578 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "export_sqli": 22.000000, "featid1": 22.000000, "name": "", "type": "Boat Launch", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.341568, 38.973458 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "export_sqli": 20.000000, "featid1": 20.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.340533, 38.973707 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "export_sqli": 19.000000, "featid1": 19.000000, "name": "", "type": "Soccer", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.351109, 38.976443 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "export_sqli": 18.000000, "featid1": 18.000000, "name": "", "type": "Pool", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.348772, 38.975913 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "export_sqli": 16.000000, "featid1": 16.000000, "name": "", "type": "Picnic", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.343022, 38.981429 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "export_sqli": 15.000000, "featid1": 15.000000, "name": "", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.334751, 38.978221 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "export_sqli": 14.000000, "featid1": 14.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.358057, 38.974045 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "export_sqli": 13.000000, "featid1": 13.000000, "name": "", "type": "Pool", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.358324, 38.975667 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "export_sqli": 12.000000, "featid1": 12.000000, "name": "", "type": "Tennis", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.358408, 38.976272 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "export_sqli": 11.000000, "featid1": 11.000000, "name": "", "type": "Football", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.360204, 38.976196 ] } }
+,
+{ "type": "Feature", "id": 141, "properties": { "export_sqli": 10.000000, "featid1": 10.000000, "name": "", "type": "Basketball", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.362538, 38.972364 ] } }
+,
+{ "type": "Feature", "id": 142, "properties": { "export_sqli": 9.000000, "featid1": 9.000000, "name": "", "type": "Play Meadow", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.347034, 38.983343 ] } }
+,
+{ "type": "Feature", "id": 143, "properties": { "export_sqli": 8.000000, "featid1": 8.000000, "name": "", "type": "Tennis", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.342098, 38.983838 ] } }
+,
+{ "type": "Feature", "id": 144, "properties": { "export_sqli": 7.000000, "featid1": 7.000000, "name": "", "type": "Pool", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.341264, 38.983755 ] } }
+,
+{ "type": "Feature", "id": 145, "properties": { "export_sqli": 6.000000, "featid1": 6.000000, "name": "", "type": "Tennis", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.326398, 38.970548 ] } }
+,
+{ "type": "Feature", "id": 146, "properties": { "export_sqli": 5.000000, "featid1": 5.000000, "name": "", "type": "Pool", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.327049, 38.969770 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "export_sqli": 4.000000, "featid1": 4.000000, "name": "", "type": "Boat Launch", "subtype": "" }, "geometry": { "type": "Point", "coordinates": [ -77.333192, 38.965584 ] } }
+
+]
+}
